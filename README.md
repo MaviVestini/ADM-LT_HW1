@@ -7,5 +7,5 @@ Personal repository for the group homeworks for the *Advanced Data Mining* cours
 Inside this repository there will be the:
 
 - **.ipynb** files, with the requests of the homework and our solutions.
-- **.pdf** files, a more readable .pdf version of the notebook.
+- **.pdf** files, a more readable .pdf version of the notebook, tht doesn't contain unnecessary outputs.
 - **Data** folder, containing the html used as data for all the homeworks.
