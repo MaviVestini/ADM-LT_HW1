@@ -1,6 +1,6 @@
 # ADM-LT
 
-Personal repository for the group homeworks for the *Advanced Data Mining* course, for the Master Degree in *Data science* at *Sapienza University*.
+Personal repository for the group homeworks for the *Advanced Data Mining and Language Technology* course, for the Master Degree in *Data science* at *Sapienza University*.
 
 # Content
 
