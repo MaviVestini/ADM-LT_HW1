@@ -8,4 +8,4 @@ Inside this repository there will be the:
 
 - **.ipynb** files, with the requests of the homework and our solutions.
 - **.pdf** files, a more readable .pdf version of the notebook, that doesn't contain unnecessary outputs.
-- **Data** folder, containing the html used as data for all the homeworks.
+- **Data** folder, containing the html used as data for homeworks 1,2 and 3.
