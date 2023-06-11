@@ -1,4 +1,4 @@
-# ADM-LT
+# ADM-LT_HW1
 
 Personal repository for the $1^{st}$ group homework for the *Advanced Data Mining and Language Technology* course, for the Master Degree in *Data science* at *Sapienza University*.
 
